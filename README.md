@@ -62,5 +62,7 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 
 ## References
 [1] [Diffusion model-based video editing: A survey](https://arxiv.org/pdf/2407.07111)
+
 [2] [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://arxiv.org/pdf/2404.16038)
+
 [3] [A Review of Deep Learning for Video Captioning](https://arxiv.org/pdf/2304.11431)
