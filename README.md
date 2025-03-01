@@ -61,3 +61,4 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * The future of AI in video editing
 
 ## References
+[1] [Diffusion model-based video editing: A survey](https://arxiv.org/pdf/2407.07111)
