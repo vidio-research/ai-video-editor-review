@@ -51,6 +51,7 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * User adoption and learning curve
 
 ## 7. Future Trends & Opportunities
+* The Role of AI Agents in Video Editing
 * The role of multimodal AI in editing
 * AI-human collaboration in creative workflows
 * Real-time AI video editing advancements
