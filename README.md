@@ -65,3 +65,4 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://arxiv.org/pdf/2404.16038)
 * [A Review of Deep Learning for Video Captioning](https://arxiv.org/pdf/2304.11431)
 * [Video understanding with large language models: A survey](https://arxiv.org/abs/2312.17432)
+* [AI Video Editing: a Survey](http://dx.doi.org/10.20944/preprints202201.0016.v1)
