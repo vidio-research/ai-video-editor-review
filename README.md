@@ -32,6 +32,7 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 ## 4. AI in Practical Video Editing Applications
 * Automated Editing & Summarization
 * Highlight detection
+** Unsupervised highlight detection from video duration ([Xiong et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Less_Is_More_Learning_Highlight_Detection_From_Video_Duration_CVPR_2019_paper.pdf))
 * Auto-trimming and scene stitching
 * AI-Powered Visual Effects & Enhancements
 * Color grading & restoration
@@ -66,3 +67,4 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * [A Review of Deep Learning for Video Captioning](https://arxiv.org/pdf/2304.11431)
 * [Video understanding with large language models: A survey](https://arxiv.org/abs/2312.17432)
 * [AI Video Editing: a Survey](http://dx.doi.org/10.20944/preprints202201.0016.v1)
+* [Less is More: Learning Highlight Detection from Video Duration](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Less_Is_More_Learning_Highlight_Detection_From_Video_Duration_CVPR_2019_paper.pdf)
