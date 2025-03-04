@@ -32,7 +32,7 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 ## 4. AI in Practical Video Editing Applications
 * Automated Editing & Summarization
 * Highlight detection
-- Unsupervised highlight detection from video duration ([Xiong et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Less_Is_More_Learning_Highlight_Detection_From_Video_Duration_CVPR_2019_paper.pdf))
+ * Unsupervised highlight detection from video duration ([Xiong et al., 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Less_Is_More_Learning_Highlight_Detection_From_Video_Duration_CVPR_2019_paper.pdf))
 * Auto-trimming and scene stitching
 * AI-Powered Visual Effects & Enhancements
 * Color grading & restoration
