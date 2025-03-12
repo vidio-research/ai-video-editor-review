@@ -38,7 +38,7 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * Color grading & restoration
 * AI-based face beautification & object removal
 * Agent-assisted editing
-  * LLM-powered video-editing assistant ([Wang et al.](https://arxiv.org/pdf/2402.10294))
+  * LLM-powered video-editing assistant ([Wang et al., 2024](https://arxiv.org/pdf/2402.10294))
 * Real-Time & Interactive AI Editing
 * AI-assisted live streaming enhancements
 * AI-powered real-time effects
