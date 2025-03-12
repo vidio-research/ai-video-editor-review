@@ -44,6 +44,7 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * AI-based face beautification & object removal
 * Agent-assisted editing
   * LLM-powered video-editing assistant ([Wang et al., 2024](https://arxiv.org/pdf/2402.10294))
+  * VideoDiff ([Huh et al., 2025](https://arxiv.org/pdf/2502.10190))
 * Real-Time & Interactive AI Editing
 * AI-assisted live streaming enhancements
 * AI-powered real-time effects
@@ -76,3 +77,4 @@ Welcome to this repository! This repo is maintained by [VIDIO](https://www.vidio
 * [AI Video Editing: a Survey](http://dx.doi.org/10.20944/preprints202201.0016.v1)
 * [Less is More: Learning Highlight Detection from Video Duration](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Less_Is_More_Learning_Highlight_Detection_From_Video_Duration_CVPR_2019_paper.pdf)
 * [LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing](https://arxiv.org/pdf/2402.10294)
+* [VideoDiff: Human-AI Video Co-Creation with Alternatives](https://arxiv.org/pdf/2502.10190)
